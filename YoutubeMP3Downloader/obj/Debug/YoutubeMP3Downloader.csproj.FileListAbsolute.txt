@@ -1,0 +1,16 @@
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\bin\Debug\YoutubeMP3Downloader.exe.config
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\bin\Debug\YoutubeMP3Downloader.exe
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\bin\Debug\YoutubeMP3Downloader.pdb
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\bin\Debug\YoutubeExtractor.dll
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\bin\Debug\Newtonsoft.Json.dll
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\bin\Debug\YoutubeExtractor.pdb
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\bin\Debug\Newtonsoft.Json.xml
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\obj\Debug\YoutubeMP3Downloader.csprojResolveAssemblyReference.cache
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\obj\Debug\YoutubeMP3Downloader.Form1.resources
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\obj\Debug\YoutubeMP3Downloader.Properties.Resources.resources
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\obj\Debug\YoutubeMP3Downloader.csproj.GenerateResource.Cache
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\obj\Debug\YoutubeMP3Downloader.csproj.CoreCompileInputs.cache
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\obj\Debug\YoutubeMP3Downloader.exe
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\obj\Debug\YoutubeMP3Downloader.pdb
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\bin\Debug\NAudio.dll
+c:\users\mattis\source\repos\YoutubeMP3Downloader\YoutubeMP3Downloader\bin\Debug\NAudio.xml
